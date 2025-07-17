@@ -9,6 +9,8 @@ Repository ini dibuat untuk keperluan technical interview. Proyek ini menggunaka
 
 📦 Cara Menjalankan
 Install dependency terlebih dahulu (gunakan requirements.txt jika tersedia):
+
+
 ```pip install -r requirements.txt```
 
 Jalankan file Python sesuai kebutuhan:
