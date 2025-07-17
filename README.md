@@ -14,8 +14,9 @@ Install dependency terlebih dahulu (gunakan requirements.txt jika tersedia):
 ```pip install -r requirements.txt```
 
 Jalankan file Python sesuai kebutuhan:
-python/python3 akar_kata.py
 
-python/python3 soal_b.py
+```python/python3 akar_kata.py```
+
+```python/python3 soal_b.py```
 
 📝 LGTM !
